@@ -1,0 +1,9 @@
+com\test\MessageDispatcher.class
+com\test\ClientMain.class
+com\test\Producer.class
+com\test\Message.class
+com\test\ProducerManager.class
+com\test\ResultSet.class
+com\test\Consumer.class
+com\test\ClientMain$1.class
+com\test\MessageSeries.class
